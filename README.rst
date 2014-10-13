@@ -8,6 +8,8 @@ awesome-sqlalchemy_.  (See also other `awesome lists`__!)
 Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`__.
 
+Your contributions are welcome.
+
 .. _Sphinx: http://sphinx-doc.org/
 .. _awesome-sqlalchemy: https://github.com/dahlia/awesome-sqlalchemy
 __ https://github.com/sindresorhus/awesome
