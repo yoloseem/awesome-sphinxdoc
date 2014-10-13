@@ -64,12 +64,17 @@ flask-sphinx-themes_
 
 sphinx_rtd_theme_
    Sphinx theme for `readthedocs.org`_.
+   
+sphinxjp.themes.basicstrap_
+   Sphinx theme built with responsive `Bootstrap`_.
 
 .. _flask-sphinx-themes: https://github.com/mitsuhiko/flask-sphinx-themes
 .. _krTheme Sphinx Style: https://github.com/kennethreitz/kr-sphinx-themes
 .. _readthedocs.org: https://readthedocs.org
 .. _Requests: http://docs.python-requests.org/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
+.. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
+.. _bootstrap: https://github.com/twbs/bootstrap
 
 
 Tools
