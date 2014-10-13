@@ -16,3 +16,18 @@ __ http://creativecommons.org/licenses/by-sa/4.0/
 .. contents:: Table of Contents
    :backlinks: none
       :depth: 3
+
+
+Extensions
+----------
+
+https://bitbucket.org/birkenfeld/sphinx-contrib
+
+sphinxcontrib-autoprogram_
+   Provides an automated way to document CLI programs.
+
+sphinxcontrib-httpdomain_
+   Provides a Sphinx domain for describing RESTful HTTP APIs.
+
+.. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
+.. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
