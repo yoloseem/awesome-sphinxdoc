@@ -40,11 +40,16 @@ sphinx-git_
 sphinxcontrib-autoprogram_
    Provides an automated way to document CLI programs.
 
+sphinxcontrib-blockdiag_
+   Sphinx extension for embedding blockdiag_ diagrams.
+
 sphinxcontrib-httpdomain_
    Provides a Sphinx domain for describing RESTful HTTP APIs.
 
+.. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
+.. _sphinxcontrib-blockdiag: http://blockdiag.com/en/blockdiag/sphinxcontrib.html
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 
 
