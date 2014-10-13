@@ -50,3 +50,18 @@ sphinx_rtd_theme_
 .. _readthedocs.org: https://readthedocs.org
 .. _Requests: http://docs.python-requests.org/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
+
+
+Tools
+-----
+
+sphinx-autobuild_
+   Watch a Sphinx directory and rebuild the documentation when a change is
+   detected.
+
+`Sphinx to GitHub`_
+   Script to prepare Sphinx html output for `GitHub Pages`_.
+
+.. _GitHub Pages: https://pages.github.com/
+.. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
+.. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
