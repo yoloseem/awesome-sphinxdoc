@@ -18,6 +18,15 @@ __ http://creativecommons.org/licenses/by-sa/4.0/
       :depth: 3
 
 
+Articles & Presentations
+------------------------
+
+`Documenting Your Project With Sphinx`_
+   Exercises for the Sphinx Tutorial that Brandon Rhodes often gives at PyCon.
+
+.. _Documenting Your Project With Sphinx: https://github.com/brandon-rhodes/sphinx-tutorial
+
+
 Extensions
 ----------
 
