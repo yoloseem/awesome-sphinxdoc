@@ -23,12 +23,16 @@ Extensions
 
 https://bitbucket.org/birkenfeld/sphinx-contrib
 
+sphinx-git_
+   git Changelog for Sphinx.
+
 sphinxcontrib-autoprogram_
    Provides an automated way to document CLI programs.
 
 sphinxcontrib-httpdomain_
    Provides a Sphinx domain for describing RESTful HTTP APIs.
 
+.. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 
