@@ -15,7 +15,7 @@ __ http://creativecommons.org/licenses/by-sa/4.0/
 
 .. contents:: Table of Contents
    :backlinks: none
-      :depth: 3
+   :depth: 3
 
 
 Articles & Presentations
