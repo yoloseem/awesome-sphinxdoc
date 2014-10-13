@@ -59,6 +59,9 @@ sphinx_rtd_theme_
 Tools
 -----
 
+Okydoky_
+   Automated docs builder using Sphinx/GitHub/Distribute for private use.
+
 sphinx-autobuild_
    Watch a Sphinx directory and rebuild the documentation when a change is
    detected.
@@ -67,5 +70,6 @@ sphinx-autobuild_
    Script to prepare Sphinx html output for `GitHub Pages`_.
 
 .. _GitHub Pages: https://pages.github.com/
+.. _Okydoky: https://pypi.python.org/pypi/Okydoky
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
 .. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
