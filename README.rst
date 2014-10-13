@@ -31,3 +31,22 @@ sphinxcontrib-httpdomain_
 
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
+
+
+Themes
+------
+
+flask-sphinx-themes_
+   Sphinx Themes for Flask related projects and Flask itself.
+
+`krTheme Sphinx Style`_
+   Sphinx theme Kenneth Reitz use for most projects e.g. Requests_.
+
+sphinx_rtd_theme_
+   Sphinx theme for `readthedocs.org`_.
+
+.. _flask-sphinx-themes: https://github.com/mitsuhiko/flask-sphinx-themes
+.. _krTheme Sphinx Style: https://github.com/kennethreitz/kr-sphinx-themes
+.. _readthedocs.org: https://readthedocs.org
+.. _Requests: http://docs.python-requests.org/
+.. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
