@@ -85,7 +85,11 @@ sphinx-autobuild_
 `Sphinx to GitHub`_
    Script to prepare Sphinx html output for `GitHub Pages`_.
 
+`ghp-import`_
+   Script to overwrite a ``gh-pages``/``master`` branch with a ``.nojekyll`` file for `GitHub Pages`_.
+
 .. _GitHub Pages: https://pages.github.com/
 .. _Okydoky: https://pypi.python.org/pypi/Okydoky
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
 .. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
+.. _ghp-import: https://pypi.python.org/pypi/ghp-import
