@@ -95,6 +95,15 @@ sphinxcontrib-httpdomain_
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 
 
+Internationalizations
+---------------------
+
+sphinx-intl_
+   Sphinx utility that make it easy to translate and to apply translation.
+
+.. _sphinx-intl: https://pypi.python.org/pypi/sphinx-intl
+
+
 Miscellaneous
 -------------
 
@@ -169,9 +178,6 @@ sphinx-autobuild_
    Watch a Sphinx directory and rebuild the documentation when a change is
    detected.
 
-sphinx-intl_
-   Sphinx utility that make it easy to translate and to apply translation.
-
 sphinx-me_
    Wraps your README-only projects in a dynamic Sphinx shell for hosting on
    `Read the Docs`_.
@@ -189,6 +195,5 @@ __ http://read-the-docs.readthedocs.org/en/latest/webhooks.html
 __ http://read-the-docs.readthedocs.org/en/latest/features.html
 .. _Read the Docs: https://readthedocs.org/
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
-.. _sphinx-intl: https://pypi.python.org/pypi/sphinx-intl
 .. _sphinx-me: https://github.com/stephenmcd/sphinx-me
 .. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
