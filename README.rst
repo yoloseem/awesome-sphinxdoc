@@ -80,12 +80,16 @@ sphinxcontrib-httpdomain_
 Miscellaneous
 -------------
 
+ome-documentation_
+   Sphinx-based documentation for the Open Microscopy Environment.
+
 sphinx-gui_
    Desktop GUI for editing Sphinx docs.
 
 sphinx-markdown-sample_
    Markdown based sphinx the documentation generator sample.
 
+.. _ome-documentation: https://github.com/openmicroscopy/ome-documentation
 .. _sphinx-gui: https://github.com/audreyr/sphinx-gui
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
 
