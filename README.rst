@@ -79,7 +79,11 @@ Miscellaneous
 sphinx-gui_
    Desktop GUI for editing Sphinx docs.
 
+sphinx-markdown-sample_
+   Markdown based sphinx the documentation generator sample.
+
 .. _sphinx-gui: https://github.com/audreyr/sphinx-gui
+.. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
 
 
 Themes
