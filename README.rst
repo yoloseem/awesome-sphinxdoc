@@ -64,6 +64,15 @@ sphinxcontrib-httpdomain_
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 
 
+Miscellaneous
+-------------
+
+sphinx-gui_
+   Desktop GUI for editing Sphinx docs.
+
+.. _sphinx-gui: https://github.com/audreyr/sphinx-gui
+
+
 Themes
 ------
 | http://sphinx-doc.org/theming.html
@@ -100,9 +109,6 @@ sphinx-autobuild_
    Watch a Sphinx directory and rebuild the documentation when a change is
    detected.
 
-sphinx-gui_
-   Desktop GUI for editing Sphinx docs.
-
 sphinx-intl_
    Sphinx utility that make it easy to translate and to apply translation.
 
@@ -116,6 +122,5 @@ sphinx-intl_
 .. _Okydoky: https://pypi.python.org/pypi/Okydoky
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
 .. _sphinx-intl: https://pypi.python.org/pypi/sphinx-intl
-.. _sphinx-gui: https://github.com/audreyr/sphinx-gui
 .. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
 .. _ghp-import: https://pypi.python.org/pypi/ghp-import
