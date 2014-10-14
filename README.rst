@@ -135,6 +135,10 @@ flask-sphinx-themes_
 `krTheme Sphinx Style`_
    Sphinx theme Kenneth Reitz uses for most projects e.g. Requests_.
 
+`Sphinx Readable Theme`_
+   A clean and readable Sphinx theme with focus on autodoc – documentation
+   from docstrings.
+
 sphinx_rtd_theme_
    Sphinx theme for `readthedocs.org`_.
 
@@ -154,6 +158,7 @@ sublee-sphinx-themes_
 .. _Ranking: http://pythonhosted.org/ranking/
 .. _readthedocs.org: https://readthedocs.org
 .. _Requests: http://docs.python-requests.org/
+.. _Sphinx Readable Theme: https://sphinx-readable-theme.readthedocs.org/en/latest/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
 .. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
