@@ -95,6 +95,9 @@ sphinxcontrib-fulltoc_
 sphinxcontrib-httpdomain_
    Provides a Sphinx domain for describing RESTful HTTP APIs.
 
+sphinxcontrib-programoutput_
+   Sphinx extension to include program output into documents.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -113,6 +116,7 @@ sphinxcontrib-httpdomain_
 .. _sphinxcontrib-docbookrestapi: https://github.com/stackforge/sphinxcontrib-docbookrestapi
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
+.. _sphinxcontrib-programoutput: https://github.com/lunaryorn/sphinxcontrib-programoutput
 
 
 Internationalizations
