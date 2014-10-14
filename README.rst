@@ -79,6 +79,9 @@ sphinxcontrib-blockdiag_
 sphinxcontrib-cldomain_
    Common Lisp domain for Sphinx.
 
+sphinxcontrib-docbookrestapi_
+   Sphinx extension that generates documentation for api-site from RST files.
+
 sphinxcontrib-fulltoc_
    Extension for Sphinx to make the sidebar show a full table of contents
    instead of just the local headings.
@@ -99,6 +102,7 @@ sphinxcontrib-httpdomain_
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-blockdiag: http://blockdiag.com/en/blockdiag/sphinxcontrib.html
 .. _sphinxcontrib-cldomain: http://cldomain.russellsim.org/
+.. _sphinxcontrib-docbookrestapi: https://github.com/stackforge/sphinxcontrib-docbookrestapi
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 
