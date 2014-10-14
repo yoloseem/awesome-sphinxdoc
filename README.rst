@@ -29,10 +29,21 @@ Articles & Presentations
 .. _Documenting Your Project With Sphinx: https://github.com/brandon-rhodes/sphinx-tutorial
 
 
+Documentation
+--------------
+| http://sphinx-doc.org/
+| http://sphinx-doc.org/rest.html
+| http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
+| http://docutils.sourceforge.net/docs/ref/rst/directives.html
+| http://sphinx-doc.org/markup/index.html
+| http://sphinx-doc.org/glossary.html
+
+
 Extensions
 ----------
-
-https://bitbucket.org/birkenfeld/sphinx-contrib
+| http://sphinx-doc.org/extensions.html
+| http://sphinx-doc.org/extdev/index.html
+| https://bitbucket.org/birkenfeld/sphinx-contrib
 
 sphinx-git_
    git Changelog for Sphinx.
@@ -55,6 +66,8 @@ sphinxcontrib-httpdomain_
 
 Themes
 ------
+| http://sphinx-doc.org/theming.html
+| http://sphinx-doc.org/templating.html
 
 flask-sphinx-themes_
    Sphinx Themes for Flask related projects and Flask itself.
