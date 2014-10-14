@@ -66,6 +66,9 @@ sphinx-fortran-extension_
 sphinx-git_
    git Changelog for Sphinx.
 
+Sphinx-prompt_
+   Sphinx directive to add unselectable prompt.
+
 Sphinx-pyreverse_
    Simple sphinx wrapper around pyreverse (from pylint suit) to generate
    UML diagramms from modules.
@@ -101,6 +104,7 @@ sphinxcontrib-httpdomain_
 .. _sphinx-autodoc-annotation: https://github.com/hsoft/sphinx-autodoc-annotation
 .. _sphinx-fortran-extension: https://github.com/paulromano/sphinx-fortran-extension
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
+.. _Sphinx-prompt: http://sbrunner.github.io/sphinx-prompt/
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
 .. _sphinxcontrib-autojs: https://github.com/lunant/sphinxcontrib-autojs
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
