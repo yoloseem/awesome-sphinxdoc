@@ -142,6 +142,10 @@ sphinx-autobuild_
 sphinx-intl_
    Sphinx utility that make it easy to translate and to apply translation.
 
+sphinx-me_
+   Wraps your README-only projects in a dynamic Sphinx shell for hosting on
+   `readthedocs.org`_.
+
 `Sphinx to GitHub`_
    Script to prepare Sphinx html output for `GitHub Pages`_.
 
@@ -150,7 +154,9 @@ sphinx-intl_
 
 .. _GitHub Pages: https://pages.github.com/
 .. _Okydoky: https://pypi.python.org/pypi/Okydoky
+.. _readthedocs.org: https://readthedocs.org/
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
 .. _sphinx-intl: https://pypi.python.org/pypi/sphinx-intl
+.. _sphinx-me: https://github.com/stephenmcd/sphinx-me
 .. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
 .. _ghp-import: https://pypi.python.org/pypi/ghp-import
