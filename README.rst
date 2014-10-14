@@ -54,6 +54,9 @@ javasphinx_
 numpydoc_
    `NumPy`_'s Sphinx extensions.
 
+Releases_
+   A Sphinx changelog-generating extension.
+
 sphinx-git_
    git Changelog for Sphinx.
 
@@ -75,6 +78,7 @@ sphinxcontrib-httpdomain_
 .. _javasphinx: https://github.com/bronto/javasphinx
 .. _NumPy: http://www.numpy.org/
 .. _numpydoc: https://github.com/numpy/numpydoc
+.. _Releases: https://github.com/bitprophet/releases
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
