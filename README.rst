@@ -48,6 +48,9 @@ Extensions
 breathe_
    ReStructuredText and Sphinx bridge to Doxygen.
 
+javasphinx_
+   Sphinx extension for documenting Java projects.
+
 sphinx-git_
    git Changelog for Sphinx.
 
@@ -66,6 +69,7 @@ sphinxcontrib-httpdomain_
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
+.. _javasphinx: https://github.com/bronto/javasphinx
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
