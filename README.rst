@@ -67,6 +67,9 @@ Sphinx-pyreverse_
    Simple sphinx wrapper around pyreverse (from pylint suit) to generate
    UML diagramms from modules.
 
+sphinxcontrib-autojs_
+   The auto JavaScript documentation Sphinx extension.
+
 sphinxcontrib-autoprogram_
    Provides an automated way to document CLI programs.
 
@@ -92,6 +95,7 @@ sphinxcontrib-httpdomain_
 .. _sphinx-fortran-extension: https://github.com/paulromano/sphinx-fortran-extension
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
+.. _sphinxcontrib-autojs: https://github.com/lunant/sphinxcontrib-autojs
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-blockdiag: http://blockdiag.com/en/blockdiag/sphinxcontrib.html
 .. _sphinxcontrib-cldomain: http://cldomain.russellsim.org/
