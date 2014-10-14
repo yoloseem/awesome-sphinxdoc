@@ -111,12 +111,15 @@ sphinx_rtd_theme_
 sphinxjp.themes.basicstrap_
    Sphinx theme built with responsive `Bootstrap`_.
 
+sublee-sphinx-themes_
+
 .. _flask-sphinx-themes: https://github.com/mitsuhiko/flask-sphinx-themes
 .. _krTheme Sphinx Style: https://github.com/kennethreitz/kr-sphinx-themes
 .. _readthedocs.org: https://readthedocs.org
 .. _Requests: http://docs.python-requests.org/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
+.. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
 .. _bootstrap: https://github.com/twbs/bootstrap
 
 
