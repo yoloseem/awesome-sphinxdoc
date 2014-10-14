@@ -51,6 +51,10 @@ breathe_
 sphinx-git_
    git Changelog for Sphinx.
 
+Sphinx-pyreverse_
+   Simple sphinx wrapper around pyreverse (from pylint suit) to generate
+   UML diagramms from modules.
+
 sphinxcontrib-autoprogram_
    Provides an automated way to document CLI programs.
 
@@ -63,6 +67,7 @@ sphinxcontrib-httpdomain_
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
+.. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-blockdiag: http://blockdiag.com/en/blockdiag/sphinxcontrib.html
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
