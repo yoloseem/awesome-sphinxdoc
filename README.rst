@@ -73,6 +73,9 @@ sphinxcontrib-autoprogram_
 sphinxcontrib-blockdiag_
    Sphinx extension for embedding blockdiag_ diagrams.
 
+sphinxcontrib-cldomain_
+   Common Lisp domain for Sphinx.
+
 sphinxcontrib-fulltoc_
    Extension for Sphinx to make the sidebar show a full table of contents
    instead of just the local headings.
@@ -91,6 +94,7 @@ sphinxcontrib-httpdomain_
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-blockdiag: http://blockdiag.com/en/blockdiag/sphinxcontrib.html
+.. _sphinxcontrib-cldomain: http://cldomain.russellsim.org/
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 
