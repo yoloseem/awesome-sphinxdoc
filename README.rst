@@ -103,7 +103,7 @@ flask-sphinx-themes_
    Sphinx Themes for Flask related projects and Flask itself.
 
 `krTheme Sphinx Style`_
-   Sphinx theme Kenneth Reitz use for most projects e.g. Requests_.
+   Sphinx theme Kenneth Reitz uses for most projects e.g. Requests_.
 
 sphinx_rtd_theme_
    Sphinx theme for `readthedocs.org`_.
@@ -112,15 +112,21 @@ sphinxjp.themes.basicstrap_
    Sphinx theme built with responsive `Bootstrap`_.
 
 sublee-sphinx-themes_
+   Sphinx themes Heungsub Lee uses for his projects e.g. Energy_, Korean_,
+   Ranking_, TrueSkill_.
 
 .. _bootstrap: https://github.com/twbs/bootstrap
+.. _Energy: http://pythonhosted.org/energy/
 .. _flask-sphinx-themes: https://github.com/mitsuhiko/flask-sphinx-themes
+.. _Korean: https://pythonhosted.org/korean/
 .. _krTheme Sphinx Style: https://github.com/kennethreitz/kr-sphinx-themes
+.. _Ranking: http://pythonhosted.org/ranking/
 .. _readthedocs.org: https://readthedocs.org
 .. _Requests: http://docs.python-requests.org/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
 .. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
+.. _TrueSkill: http://trueskill.org/
 
 
 Tools
