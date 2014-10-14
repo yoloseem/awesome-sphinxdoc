@@ -175,6 +175,10 @@ sphinx-better-theme_
 sphinx_rtd_theme_
    Sphinx theme for `readthedocs.org`_.
 
+sphinx-theme-graphite_
+   A slightly muted light-on-dark theme for the Sphinx document generator
+   using only CSS.
+
 sphinxjp.themes.basicstrap_
    Sphinx theme built with responsive `Bootstrap`_.
 
@@ -194,6 +198,7 @@ sublee-sphinx-themes_
 .. _Sphinx Readable Theme: https://sphinx-readable-theme.readthedocs.org/en/latest/
 .. _sphinx-better-theme: http://sphinx-better-theme.readthedocs.org/en/latest/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
+.. _sphinx-theme-graphite: https://github.com/Cartroo/sphinx-theme-graphite
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
 .. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
 .. _TrueSkill: http://trueskill.org/
