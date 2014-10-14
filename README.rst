@@ -45,6 +45,9 @@ Extensions
 | http://sphinx-doc.org/extdev/index.html
 | https://bitbucket.org/birkenfeld/sphinx-contrib
 
+breathe_
+   ReStructuredText and Sphinx bridge to Doxygen.
+
 sphinx-git_
    git Changelog for Sphinx.
 
@@ -58,6 +61,7 @@ sphinxcontrib-httpdomain_
    Provides a Sphinx domain for describing RESTful HTTP APIs.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
+.. _breathe: https://github.com/michaeljones/breathe
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-blockdiag: http://blockdiag.com/en/blockdiag/sphinxcontrib.html
