@@ -142,8 +142,16 @@ sublee-sphinx-themes_
 .. _TrueSkill: http://trueskill.org/
 
 
-Tools
------
+Publication
+-----------
+
+`Read the Docs`_
+   Read the Docs hosts documentation, making it fully searchable and easy to
+   find.  You can import your docs using any major version control system,
+   including Mercurial, Git, Subversion, and Bazaar.  It supports webhooks__
+   so your docs get built when you commit code.  There's also support for
+   versioning so you can build docs from tags and branches of your code in
+   your repository. A `full list of features`__ is available.
 
 Okydoky_
    Automated docs builder using Sphinx/GitHub/Distribute for private use.
@@ -157,7 +165,7 @@ sphinx-intl_
 
 sphinx-me_
    Wraps your README-only projects in a dynamic Sphinx shell for hosting on
-   `readthedocs.org`_.
+   `Read the Docs`_.
 
 `Sphinx to GitHub`_
    Script to prepare Sphinx html output for `GitHub Pages`_.
@@ -168,7 +176,9 @@ sphinx-me_
 .. _ghp-import: https://pypi.python.org/pypi/ghp-import
 .. _GitHub Pages: https://pages.github.com/
 .. _Okydoky: https://pypi.python.org/pypi/Okydoky
-.. _readthedocs.org: https://readthedocs.org/
+__ http://read-the-docs.readthedocs.org/en/latest/webhooks.html
+__ http://read-the-docs.readthedocs.org/en/latest/features.html
+.. _Read the Docs: https://readthedocs.org/
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
 .. _sphinx-intl: https://pypi.python.org/pypi/sphinx-intl
 .. _sphinx-me: https://github.com/stephenmcd/sphinx-me
