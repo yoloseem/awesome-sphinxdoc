@@ -99,6 +99,9 @@ Themes
 | http://sphinx-doc.org/theming.html
 | http://sphinx-doc.org/templating.html
 
+Alabaster_
+   Modified Kr Sphinx doc theme.
+
 flask-sphinx-themes_
    Sphinx Themes for Flask related projects and Flask itself.
 
@@ -115,6 +118,7 @@ sublee-sphinx-themes_
    Sphinx themes Heungsub Lee uses for his projects e.g. Energy_, Korean_,
    Ranking_, TrueSkill_.
 
+.. _Alabaster: https://github.com/bitprophet/alabaster
 .. _bootstrap: https://github.com/twbs/bootstrap
 .. _Energy: http://pythonhosted.org/energy/
 .. _flask-sphinx-themes: https://github.com/mitsuhiko/flask-sphinx-themes
