@@ -152,6 +152,7 @@ sphinx-me_
 `ghp-import`_
    Script to overwrite a ``gh-pages``/``master`` branch with a ``.nojekyll`` file for `GitHub Pages`_.
 
+.. _ghp-import: https://pypi.python.org/pypi/ghp-import
 .. _GitHub Pages: https://pages.github.com/
 .. _Okydoky: https://pypi.python.org/pypi/Okydoky
 .. _readthedocs.org: https://readthedocs.org/
@@ -159,4 +160,3 @@ sphinx-me_
 .. _sphinx-intl: https://pypi.python.org/pypi/sphinx-intl
 .. _sphinx-me: https://github.com/stephenmcd/sphinx-me
 .. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
-.. _ghp-import: https://pypi.python.org/pypi/ghp-import
