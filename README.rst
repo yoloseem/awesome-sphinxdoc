@@ -57,6 +57,9 @@ numpydoc_
 Releases_
    A Sphinx changelog-generating extension.
 
+sphinx-autodoc-annotation_
+   Use Python 3 annotations in sphinx-enabled docstrings.
+
 sphinx-fortran-extension_
    A Fortran domain and autodocumentation module for Sphinx.
 
@@ -95,6 +98,7 @@ sphinxcontrib-httpdomain_
 .. _NumPy: http://www.numpy.org/
 .. _numpydoc: https://github.com/numpy/numpydoc
 .. _Releases: https://github.com/bitprophet/releases
+.. _sphinx-autodoc-annotation: https://github.com/hsoft/sphinx-autodoc-annotation
 .. _sphinx-fortran-extension: https://github.com/paulromano/sphinx-fortran-extension
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
