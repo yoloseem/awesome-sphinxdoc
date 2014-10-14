@@ -51,6 +51,9 @@ breathe_
 javasphinx_
    Sphinx extension for documenting Java projects.
 
+numpydoc_
+   `NumPy`_'s Sphinx extensions.
+
 sphinx-git_
    git Changelog for Sphinx.
 
@@ -70,6 +73,8 @@ sphinxcontrib-httpdomain_
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
+.. _NumPy: http://www.numpy.org/
+.. _numpydoc: https://github.com/numpy/numpydoc
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
