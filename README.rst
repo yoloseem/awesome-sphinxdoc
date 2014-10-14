@@ -155,6 +155,10 @@ flask-sphinx-themes_
    A clean and readable Sphinx theme with focus on autodoc – documentation
    from docstrings.
 
+sphinx-better-theme_
+   A theme for Sphinx that looks nice, is easy to style with CSS, works well
+   on small screens and mobile devices, and organizes the page better.
+
 sphinx_rtd_theme_
    Sphinx theme for `readthedocs.org`_.
 
@@ -175,6 +179,7 @@ sublee-sphinx-themes_
 .. _readthedocs.org: https://readthedocs.org
 .. _Requests: http://docs.python-requests.org/
 .. _Sphinx Readable Theme: https://sphinx-readable-theme.readthedocs.org/en/latest/
+.. _sphinx-better-theme: http://sphinx-better-theme.readthedocs.org/en/latest/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
 .. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
