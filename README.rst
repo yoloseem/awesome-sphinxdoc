@@ -98,6 +98,10 @@ sphinxcontrib-httpdomain_
 sphinxcontrib-programoutput_
    Sphinx extension to include program output into documents.
 
+Tut_
+   Tut is a tool that helps you write tutorial style documentation using
+   Sphinx.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -117,6 +121,7 @@ sphinxcontrib-programoutput_
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 .. _sphinxcontrib-programoutput: https://github.com/lunaryorn/sphinxcontrib-programoutput
+.. _Tut: https://github.com/nyergler/tut
 
 
 Internationalizations
