@@ -98,6 +98,9 @@ sphinxcontrib-httpdomain_
 sphinxcontrib-programoutput_
    Sphinx extension to include program output into documents.
 
+sphinxcontrib-napoleon_
+   Napoleon is a pre-processor that parses NumPy and Google style docstrings.
+
 Tut_
    Tut is a tool that helps you write tutorial style documentation using
    Sphinx.
@@ -121,6 +124,7 @@ Tut_
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 .. _sphinxcontrib-programoutput: https://github.com/lunaryorn/sphinxcontrib-programoutput
+.. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/
 .. _Tut: https://github.com/nyergler/tut
 
 
@@ -186,6 +190,9 @@ sublee-sphinx-themes_
    Sphinx themes Heungsub Lee uses for his projects e.g. Energy_, Korean_,
    Ranking_, TrueSkill_.
 
+sphinx-py3doc-enhanced-theme_
+   A theme based on the theme of https://docs.python.org/3/ with some responsive enhancements.
+   
 .. _Alabaster: https://github.com/bitprophet/alabaster
 .. _bootstrap: https://github.com/twbs/bootstrap
 .. _Energy: http://pythonhosted.org/energy/
@@ -202,7 +209,7 @@ sublee-sphinx-themes_
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
 .. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
 .. _TrueSkill: http://trueskill.org/
-
+.. _sphinx-py3doc-enhanced-theme: https://github.com/ionelmc/sphinx-py3doc-enhanced-theme
 
 Publication
 -----------
