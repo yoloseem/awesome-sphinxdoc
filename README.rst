@@ -94,6 +94,7 @@ sphinxcontrib-fulltoc_
 
 sphinxcontrib-httpdomain_
    Provides a Sphinx domain for describing RESTful HTTP APIs.
+   Also supports reflection for Flask, Bottle, and Tornado apps.
 
 sphinxcontrib-programoutput_
    Sphinx extension to include program output into documents.
