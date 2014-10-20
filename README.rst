@@ -95,6 +95,10 @@ sphinxcontrib-fulltoc_
 sphinxcontrib-httpdomain_
    Provides a Sphinx domain for describing RESTful HTTP APIs.
 
+cornice.ext.sphinxext_
+   Sphinx extension to build RESTful HTTP API documentation from
+   Pyramid Cornice docstrings.
+
 sphinxcontrib-programoutput_
    Sphinx extension to include program output into documents.
 
@@ -123,6 +127,7 @@ Tut_
 .. _sphinxcontrib-docbookrestapi: https://github.com/stackforge/sphinxcontrib-docbookrestapi
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
+.. _cornice.ext.sphinxext: http://cornice.readthedocs.org/en/latest/sphinx.html
 .. _sphinxcontrib-programoutput: https://github.com/lunaryorn/sphinxcontrib-programoutput
 .. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/
 .. _Tut: https://github.com/nyergler/tut
