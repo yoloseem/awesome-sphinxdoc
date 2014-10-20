@@ -94,6 +94,7 @@ sphinxcontrib-fulltoc_
 
 sphinxcontrib-httpdomain_
    Provides a Sphinx domain for describing RESTful HTTP APIs.
+   Also supports reflection for Flask, Bottle, and Tornado apps.
 
 cornice.ext.sphinxext_
    Sphinx extension to build RESTful HTTP API documentation from
