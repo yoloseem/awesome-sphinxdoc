@@ -43,6 +43,7 @@ Extensions
 ----------
 | http://sphinx-doc.org/extensions.html
 | http://sphinx-doc.org/extdev/index.html
+| http://sphinx-doc.org/extdev/appapi.html
 | https://bitbucket.org/birkenfeld/sphinx-contrib
 
 breathe_
