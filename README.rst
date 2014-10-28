@@ -147,6 +147,10 @@ sphinx-intl_
 Miscellaneous
 -------------
 
+django-sphinxdoc_
+   Integrate Sphinx documentation into a Django-powered website. Allows you to
+   use your sites templates, auth and so on. Offers search via Haystack.
+
 ome-documentation_
    Sphinx-based documentation for the Open Microscopy Environment.
 
@@ -156,6 +160,7 @@ sphinx-gui_
 sphinx-markdown-sample_
    Markdown based sphinx the documentation generator sample.
 
+.. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
 .. _ome-documentation: https://github.com/openmicroscopy/ome-documentation
 .. _sphinx-gui: https://github.com/audreyr/sphinx-gui
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
