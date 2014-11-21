@@ -154,6 +154,10 @@ django-sphinxdoc_
 ome-documentation_
    Sphinx-based documentation for the Open Microscopy Environment.
 
+riv.vim_
+   ReStructured text editing extensions for Vim, GVim, MacVim;
+   optionally with `InstantRst`_ gevent live reload.
+
 sphinx-gui_
    Desktop GUI for editing Sphinx docs.
 
@@ -161,7 +165,9 @@ sphinx-markdown-sample_
    Markdown based sphinx the documentation generator sample.
 
 .. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
+.. _InstantRst: https://github.com/Rykka/InstantRst
 .. _ome-documentation: https://github.com/openmicroscopy/ome-documentation
+.. _riv.vim: https://github.com/Rykka/riv.vim
 .. _sphinx-gui: https://github.com/audreyr/sphinx-gui
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
 
