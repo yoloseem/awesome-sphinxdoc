@@ -164,12 +164,18 @@ sphinx-gui_
 sphinx-markdown-sample_
    Markdown based sphinx the documentation generator sample.
 
+tinkerer_
+   Blog engine static HTML5 generator 
+   with categories, tags, landing page, nav sidebar,
+   RSS powered by Sphinx and responsive Jinja templates.
+
 .. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
 .. _InstantRst: https://github.com/Rykka/InstantRst
 .. _ome-documentation: https://github.com/openmicroscopy/ome-documentation
 .. _riv.vim: https://github.com/Rykka/riv.vim
 .. _sphinx-gui: https://github.com/audreyr/sphinx-gui
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
+.. _tinkerer: https://github.com/vladris/tinkerer
 
 
 Themes
