@@ -165,9 +165,9 @@ sphinx-markdown-sample_
    Markdown based sphinx the documentation generator sample.
 
 tinkerer_
-   blogging engine responsive HTML generator 
+   Blog engine static HTML5 generator 
    with categories, tags, landing page, nav sidebar,
-   RSS powered by Sphinx and Jinja.
+   RSS powered by Sphinx and responsive Jinja templates.
 
 .. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
 .. _InstantRst: https://github.com/Rykka/InstantRst
