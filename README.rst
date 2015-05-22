@@ -168,6 +168,12 @@ tinkerer_
    Blog engine static HTML5 generator 
    with categories, tags, landing page, nav sidebar,
    RSS powered by Sphinx and responsive Jinja templates.
+   
+ablog_
+   ABlog is a Sphinx extension that converts any documentation
+   or personal website project into a full-fledged blog with
+   atom feeds, archive pages, blog sidebars, Disqus integration,
+   Font-Awesome integration and easy GitHub Pages deploys
 
 .. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
 .. _InstantRst: https://github.com/Rykka/InstantRst
@@ -176,7 +182,7 @@ tinkerer_
 .. _sphinx-gui: https://github.com/audreyr/sphinx-gui
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
 .. _tinkerer: https://github.com/vladris/tinkerer
-
+.. _ablog: http://ablog.readthedocs.org/
 
 Themes
 ------
