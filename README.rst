@@ -25,11 +25,14 @@ Sphinx
 | Wikipedia: `<https://en.wikipedia.org/wiki/Sphinx_(documentation_generator)>`__
 | Homepage: http://sphinx-doc.org/
 | Source: git https://github.com/sphinx-doc/sphinx
+
 | Docs: http://sphinx-doc.org/contents.html
-| Docs: http://sphinx-doc.org/rest.html
 | Docs: http://sphinx-doc.org/develop.html
+| Docs: http://sphinx-doc.org/rest.html
 | Docs: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
+| Docs: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#line-blocks
 | Docs: http://docutils.sourceforge.net/docs/ref/rst/directives.html
+| Docs: https://docs.python.org/devguide/documenting.html#sections
 | Docs: http://sphinx-doc.org/markup/index.html
 | Docs: http://sphinx-doc.org/glossary.html
 
