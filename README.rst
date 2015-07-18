@@ -25,7 +25,6 @@ Sphinx
 | Wikipedia: `<https://en.wikipedia.org/wiki/Sphinx_(documentation_generator)>`__
 | Homepage: http://sphinx-doc.org/
 | Source: git https://github.com/sphinx-doc/sphinx
-| Docs: `Documentation`_
 | Docs: http://sphinx-doc.org/contents.html
 | Docs: http://sphinx-doc.org/rest.html
 | Docs: http://sphinx-doc.org/develop.html
