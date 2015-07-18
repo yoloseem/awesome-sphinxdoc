@@ -20,6 +20,21 @@ __ http://creativecommons.org/licenses/by-sa/4.0/
    :depth: 3
 
 
+Sphinx
+------------
+| Wikipedia: `<https://en.wikipedia.org/wiki/Sphinx_(documentation_generator)>`__
+| Homepage: http://sphinx-doc.org/
+| Source: git https://github.com/sphinx-doc/sphinx
+| Docs: `Documentation`_
+| Docs: http://sphinx-doc.org/contents.html
+| Docs: http://sphinx-doc.org/rest.html
+| Docs: http://sphinx-doc.org/develop.html
+| Docs: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
+| Docs: http://docutils.sourceforge.net/docs/ref/rst/directives.html
+| Docs: http://sphinx-doc.org/markup/index.html
+| Docs: http://sphinx-doc.org/glossary.html
+
+
 Articles & Presentations
 ------------------------
 
@@ -29,22 +44,13 @@ Articles & Presentations
 .. _Documenting Your Project With Sphinx: https://github.com/brandon-rhodes/sphinx-tutorial
 
 
-Documentation
---------------
-| http://sphinx-doc.org/
-| http://sphinx-doc.org/rest.html
-| http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
-| http://docutils.sourceforge.net/docs/ref/rst/directives.html
-| http://sphinx-doc.org/markup/index.html
-| http://sphinx-doc.org/glossary.html
-
-
 Extensions
 ----------
-| http://sphinx-doc.org/extensions.html
-| http://sphinx-doc.org/extdev/index.html
-| http://sphinx-doc.org/extdev/appapi.html
-| https://bitbucket.org/birkenfeld/sphinx-contrib
+| Source: git https://github.com/sphinx-doc/sphinx/tree/master/sphinx/ext
+| Source: hg https://bitbucket.org/birkenfeld/sphinx-contrib
+| Docs: http://sphinx-doc.org/extensions.html
+| Docs: http://sphinx-doc.org/extdev/index.html
+| Docs: http://sphinx-doc.org/extdev/appapi.html
 
 breathe_
    ReStructuredText and Sphinx bridge to Doxygen.
@@ -186,8 +192,9 @@ ablog_
 
 Themes
 ------
-| http://sphinx-doc.org/theming.html
-| http://sphinx-doc.org/templating.html
+| Docs: http://sphinx-doc.org/theming.html
+| Docs: http://sphinx-doc.org/templating.html
+| Source: git https://github.com/sphinx-doc/sphinx/tree/master/sphinx/themes
 
 Alabaster_
    Modified Kr Sphinx doc theme.
