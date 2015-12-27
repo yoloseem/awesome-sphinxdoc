@@ -69,6 +69,9 @@ Releases_
 sphinx-autodoc-annotation_
    Use Python 3 annotations in sphinx-enabled docstrings.
 
+sphinx-autodoc-typehints_
+   Type hints support for the Sphinx autodoc extension
+
 sphinx-fortran-extension_
    A Fortran domain and autodocumentation module for Sphinx.
 
@@ -126,6 +129,7 @@ Tut_
 .. _numpydoc: https://github.com/numpy/numpydoc
 .. _Releases: https://github.com/bitprophet/releases
 .. _sphinx-autodoc-annotation: https://github.com/hsoft/sphinx-autodoc-annotation
+.. _sphinx-autodoc-typehints: https://github.com/agronholm/sphinx-autodoc-typehints
 .. _sphinx-fortran-extension: https://github.com/paulromano/sphinx-fortran-extension
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _Sphinx-prompt: http://sbrunner.github.io/sphinx-prompt/
