@@ -122,6 +122,9 @@ Tut_
    Tut is a tool that helps you write tutorial style documentation using
    Sphinx.
 
+sphinx-links_
+   Add external links to Sphinx project.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -145,6 +148,7 @@ Tut_
 .. _sphinxcontrib-programoutput: https://github.com/lunaryorn/sphinxcontrib-programoutput
 .. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/
 .. _Tut: https://github.com/nyergler/tut
+.. _sphinx-links: https://github.com/ITCase/sphinx-links
 
 
 Internationalizations
