@@ -130,7 +130,7 @@ Tut_
 .. _Releases: https://github.com/bitprophet/releases
 .. _sphinx-autodoc-annotation: https://github.com/hsoft/sphinx-autodoc-annotation
 .. _sphinx-autodoc-typehints: https://github.com/agronholm/sphinx-autodoc-typehints
-.. _sphinx-fortran-extension: https://github.com/paulromano/sphinx-fortran-extension
+.. _sphinx-fortran-extension: https://github.com/VACUMM/sphinx-fortran
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _Sphinx-prompt: http://sbrunner.github.io/sphinx-prompt/
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
