@@ -121,6 +121,10 @@ sphinxcontrib-napoleon_
 Tut_
    Tut is a tool that helps you write tutorial style documentation using
    Sphinx.
+   
+Hieroglyph_
+   Hieroglyph is an extension for Sphinx which builds HTML slides from 
+   ReStructuredText documents.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
@@ -145,6 +149,7 @@ Tut_
 .. _sphinxcontrib-programoutput: https://github.com/lunaryorn/sphinxcontrib-programoutput
 .. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/
 .. _Tut: https://github.com/nyergler/tut
+.. _Hieroglyph: http://hieroglyph.io/
 
 
 Internationalizations
