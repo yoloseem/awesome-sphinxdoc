@@ -145,9 +145,9 @@ Hieroglyph_
 .. _sphinxcontrib-docbookrestapi: https://github.com/stackforge/sphinxcontrib-docbookrestapi
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
-.. _cornice.ext.sphinxext: http://cornice.readthedocs.org/en/latest/sphinx.html
+.. _cornice.ext.sphinxext: http://cornice.readthedocs.io/en/latest/sphinx.html
 .. _sphinxcontrib-programoutput: https://github.com/lunaryorn/sphinxcontrib-programoutput
-.. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/
+.. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 
@@ -199,7 +199,7 @@ ablog_
 .. _sphinx-gui: https://github.com/audreyr/sphinx-gui
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
 .. _tinkerer: https://github.com/vladris/tinkerer
-.. _ablog: http://ablog.readthedocs.org/
+.. _ablog: http://ablog.readthedocs.io/
 
 Themes
 ------
@@ -225,7 +225,7 @@ sphinx-better-theme_
    on small screens and mobile devices, and organizes the page better.
 
 sphinx_rtd_theme_
-   Sphinx theme for `readthedocs.org`_.
+   Sphinx theme for `readthedocs.io`_.
 
 sphinx-theme-graphite_
    A slightly muted light-on-dark theme for the Sphinx document generator
@@ -248,10 +248,10 @@ sphinx-py3doc-enhanced-theme_
 .. _Korean: https://pythonhosted.org/korean/
 .. _krTheme Sphinx Style: https://github.com/kennethreitz/kr-sphinx-themes
 .. _Ranking: http://pythonhosted.org/ranking/
-.. _readthedocs.org: https://readthedocs.org
+.. _readthedocs.io: https://readthedocs.io
 .. _Requests: http://docs.python-requests.org/
-.. _Sphinx Readable Theme: https://sphinx-readable-theme.readthedocs.org/en/latest/
-.. _sphinx-better-theme: http://sphinx-better-theme.readthedocs.org/en/latest/
+.. _Sphinx Readable Theme: https://sphinx-readable-theme.readthedocs.io/en/latest/
+.. _sphinx-better-theme: http://sphinx-better-theme.readthedocs.io/en/latest/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
 .. _sphinx-theme-graphite: https://github.com/Cartroo/sphinx-theme-graphite
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
@@ -290,9 +290,9 @@ sphinx-me_
 .. _ghp-import: https://pypi.python.org/pypi/ghp-import
 .. _GitHub Pages: https://pages.github.com/
 .. _Okydoky: https://pypi.python.org/pypi/Okydoky
-__ http://read-the-docs.readthedocs.org/en/latest/webhooks.html
-__ http://read-the-docs.readthedocs.org/en/latest/features.html
-.. _Read the Docs: https://readthedocs.org/
+__ http://read-the-docs.readthedocs.io/en/latest/webhooks.html
+__ http://read-the-docs.readthedocs.io/en/latest/features.html
+.. _Read the Docs: https://readthedocs.io/
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
 .. _sphinx-me: https://github.com/stephenmcd/sphinx-me
 .. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
