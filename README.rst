@@ -244,7 +244,7 @@ sphinx-py3doc-enhanced-theme_
 .. _Alabaster: https://github.com/bitprophet/alabaster
 .. _bootstrap: https://github.com/twbs/bootstrap
 .. _Energy: http://pythonhosted.org/energy/
-.. _flask-sphinx-themes: https://github.com/mitsuhiko/flask-sphinx-themes
+.. _flask-sphinx-themes: https://github.com/pallets/flask-sphinx-themes
 .. _Korean: https://pythonhosted.org/korean/
 .. _krTheme Sphinx Style: https://github.com/kennethreitz/kr-sphinx-themes
 .. _Ranking: http://pythonhosted.org/ranking/
