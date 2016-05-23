@@ -242,15 +242,13 @@ sphinx-py3doc-enhanced-theme_
    A theme based on the theme of https://docs.python.org/3/ with some responsive enhancements.
 
 sphinx-bootstrap-theme_
-   Integrates Bootstrap CSS/Javascript framework responsive design with any
-Bootswatch CSS themes.
+   Integrates Bootstrap CSS/Javascript framework responsive design with any Bootswatch CSS themes.
 
 sphinx-foundation-theme_
    Theme based on the Foundation 4 CSS framework.
 
 sphinx-nameko-theme_
-   Forked from Sphinx Readable Theme, combined with elements of the Read The
-Docs theme.
+   Forked from Sphinx Readable Theme, combined with elements of the Read The Docs theme.
 
 sphinx-guzzle-theme_
    Sphinx theme used by Guzzle: http://guzzlephp.org
@@ -259,19 +257,16 @@ sphinx-hbp-theme_
    HumanBrainProject Collaboratory Sphinx Theme.
 
 crate-docs-theme_
-   This project provides a Sphinx theme for Crate's documentation that is
-compatible with ReadTheDocs.
+   This project provides a Sphinx theme for Crate's documentation that is compatible with ReadTheDocs.
 
 solar-theme_
-   Solar is an attempt to create a theme for the Python Sphinx documentation
-generator based on the Solarized color scheme.
+   Solar is an attempt to create a theme for the Python Sphinx documentation generator based on the Solarized color scheme.
 
 sphinxtrap-theme_
    Sphinxtrap is a minimalist bootstrap2-based + fontawesome sphinx theme.
 
 mdn-sphinx-theme_
-   This is a version of the Mozilla Developer Network theme, for the Sphinx
-documentation engine.
+   This is a version of the Mozilla Developer Network theme, for the Sphinx documentation engine.
 
 
 .. _Alabaster: https://github.com/bitprophet/alabaster
