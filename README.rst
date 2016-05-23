@@ -121,9 +121,9 @@ sphinxcontrib-napoleon_
 Tut_
    Tut is a tool that helps you write tutorial style documentation using
    Sphinx.
-   
+
 Hieroglyph_
-   Hieroglyph is an extension for Sphinx which builds HTML slides from 
+   Hieroglyph is an extension for Sphinx which builds HTML slides from
    ReStructuredText documents.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
@@ -182,10 +182,10 @@ sphinx-markdown-sample_
    Markdown based sphinx the documentation generator sample.
 
 tinkerer_
-   Blog engine static HTML5 generator 
+   Blog engine static HTML5 generator
    with categories, tags, landing page, nav sidebar,
    RSS powered by Sphinx and responsive Jinja templates.
-   
+
 ablog_
    ABlog is a Sphinx extension that converts any documentation
    or personal website project into a full-fledged blog with
@@ -240,7 +240,40 @@ sublee-sphinx-themes_
 
 sphinx-py3doc-enhanced-theme_
    A theme based on the theme of https://docs.python.org/3/ with some responsive enhancements.
-   
+
+sphinx-bootstrap-theme_
+   Integrates Bootstrap CSS/Javascript framework responsive design with any
+Bootswatch CSS themes.
+
+sphinx-foundation-theme_
+   Theme based on the Foundation 4 CSS framework.
+
+sphinx-nameko-theme_
+   Forked from Sphinx Readable Theme, combined with elements of the Read The
+Docs theme.
+
+sphinx-guzzle-theme_
+   Sphinx theme used by Guzzle: http://guzzlephp.org
+
+sphinx-hbp-theme_
+   HumanBrainProject Collaboratory Sphinx Theme.
+
+crate-docs-theme_
+   This project provides a Sphinx theme for Crate's documentation that is
+compatible with ReadTheDocs.
+
+solar-theme_
+   Solar is an attempt to create a theme for the Python Sphinx documentation
+generator based on the Solarized color scheme.
+
+sphinxtrap-theme_
+   Sphinxtrap is a minimalist bootstrap2-based + fontawesome sphinx theme.
+
+mdn-sphinx-theme_
+   This is a version of the Mozilla Developer Network theme, for the Sphinx
+documentation engine.
+
+
 .. _Alabaster: https://github.com/bitprophet/alabaster
 .. _bootstrap: https://github.com/twbs/bootstrap
 .. _Energy: http://pythonhosted.org/energy/
@@ -258,6 +291,15 @@ sphinx-py3doc-enhanced-theme_
 .. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
 .. _TrueSkill: http://trueskill.org/
 .. _sphinx-py3doc-enhanced-theme: https://github.com/ionelmc/sphinx-py3doc-enhanced-theme
+.. _sphinx-bootstrap-theme: https://github.com/ryan-roemer/sphinx-bootstrap-theme
+.. _sphinx-foundation-theme: https://github.com/peterhudec/foundation-sphinx-theme
+.. _sphinx-nameko-theme: https://github.com/onefinestay/sphinx-nameko-theme
+.. _sphinx-guzzle-theme: https://github.com/guzzle/guzzle_sphinx_theme
+.. _sphinx-hbp-theme: https://github.com/HumanBrainProject/hbp-sphinx-theme/
+.. _crate-docs-theme: https://github.com/crate/crate-docs-theme
+.. _solar-theme: https://github.com/vimalkvn/solar-theme
+.. _sphinxtrap-theme: https://github.com/jfardello/Sphinxtrap
+.. _mdn-sphinx-theme: https://github.com/mdn/sphinx-theme
 
 Publication
 -----------
