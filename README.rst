@@ -268,6 +268,8 @@ sphinxtrap-theme_
 mdn-sphinx-theme_
    This is a version of the Mozilla Developer Network theme, for the Sphinx documentation engine.
 
+sphinx_adc_theme_
+   The Apple Developer Connection theme for sphinx
 
 .. _Alabaster: https://github.com/bitprophet/alabaster
 .. _bootstrap: https://github.com/twbs/bootstrap
@@ -295,6 +297,7 @@ mdn-sphinx-theme_
 .. _solar-theme: https://github.com/vimalkvn/solar-theme
 .. _sphinxtrap-theme: https://github.com/jfardello/Sphinxtrap
 .. _mdn-sphinx-theme: https://github.com/mdn/sphinx-theme
+.. _sphinx_adc_theme: https://github.com/mga-sphinx/sphinx_adc_theme
 
 Publication
 -----------
