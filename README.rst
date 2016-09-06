@@ -72,6 +72,10 @@ sphinx-autodoc-annotation_
 sphinx-autodoc-typehints_
    Type hints support for the Sphinx autodoc extension
 
+sphinx-autodoc-napoleon-typehints_
+   Type hints support for the Sphinx autodoc extension with support for NumPy
+   and Google style docstrings (see sphinxcontrib-napoleon_).
+
 sphinx-fortran-extension_
    A Fortran domain and autodocumentation module for Sphinx.
 
@@ -134,6 +138,7 @@ Hieroglyph_
 .. _Releases: https://github.com/bitprophet/releases
 .. _sphinx-autodoc-annotation: https://github.com/hsoft/sphinx-autodoc-annotation
 .. _sphinx-autodoc-typehints: https://github.com/agronholm/sphinx-autodoc-typehints
+.. _sphinx-autodoc-napoleon-typehints: https://github.com/daviskirk/sphinx-autodoc-napoleon-typehints
 .. _sphinx-fortran-extension: https://github.com/VACUMM/sphinx-fortran
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _Sphinx-prompt: http://sbrunner.github.io/sphinx-prompt/
