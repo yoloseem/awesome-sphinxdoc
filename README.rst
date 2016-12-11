@@ -206,8 +206,6 @@ ablog_
 .. _tinkerer: https://github.com/vladris/tinkerer
 .. _ablog: http://ablog.readthedocs.io/
 
-
-
 Themes
 ------
 | Docs: http://sphinx-doc.org/theming.html
