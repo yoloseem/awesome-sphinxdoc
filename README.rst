@@ -322,6 +322,11 @@ sphinx-autobuild_
    Watch a Sphinx directory and rebuild the documentation when a change is
    detected.
 
+sphinx-server_
+   A universal Sphinx Server based on sphinx-autobuild_ with Docker support
+   that can be used in production (self-hosted) and for documentation development,
+   bundled with *PlantUML*, *Graphviz* and *HTTP authentication*.
+
 sphinx-me_
    Wraps your README-only projects in a dynamic Sphinx shell for hosting on
    `Read the Docs`_.
@@ -339,5 +344,6 @@ __ http://read-the-docs.readthedocs.io/en/latest/webhooks.html
 __ http://read-the-docs.readthedocs.io/en/latest/features.html
 .. _Read the Docs: https://readthedocs.io/
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
+.. _sphinx-server: https://github.com/dldl/sphinx-server
 .. _sphinx-me: https://github.com/stephenmcd/sphinx-me
 .. _Sphinx to GitHub: https://github.com/michaeljones/sphinx-to-github
