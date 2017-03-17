@@ -151,7 +151,7 @@ Hieroglyph_
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 .. _cornice.ext.sphinxext: http://cornice.readthedocs.io/en/latest/sphinx.html
-.. _sphinxcontrib-programoutput: https://github.com/lunaryorn/sphinxcontrib-programoutput
+.. _sphinxcontrib-programoutput: https://github.com/NextThought/sphinxcontrib-programoutput
 .. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
