@@ -72,10 +72,6 @@ sphinx-autodoc-annotation_
 sphinx-autodoc-typehints_
    Type hints support for the Sphinx autodoc extension
 
-sphinx-autodoc-napoleon-typehints_
-   Type hints support for the Sphinx autodoc extension with support for NumPy
-   and Google style docstrings (see sphinxcontrib-napoleon_).
-
 sphinx-fortran-extension_
    A Fortran domain and autodocumentation module for Sphinx.
 
