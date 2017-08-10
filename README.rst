@@ -130,6 +130,9 @@ Hieroglyph_
    Hieroglyph is an extension for Sphinx which builds HTML slides from
    ReStructuredText documents.
 
+Sphinx-Needs_
+   Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -155,7 +158,7 @@ Hieroglyph_
 .. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
-
+.. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
 
 Internationalizations
 ---------------------
