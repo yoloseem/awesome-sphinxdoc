@@ -133,6 +133,9 @@ Hieroglyph_
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
 
+sphinx-sitemap_
+   sphinx-sitemap silently generates a sitemap for HTML builds.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -159,6 +162,7 @@ Sphinx-Needs_
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _sphinx-sitemap: https://github.com/jdillard/sphinx-sitemap
 
 Internationalizations
 ---------------------
