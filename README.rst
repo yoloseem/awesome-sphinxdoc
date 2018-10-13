@@ -132,6 +132,9 @@ Hieroglyph_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
+   
+Sphinxcontrib-packages_
+   A sphinx extension to list tools installed on the machine generating the documentation (python versions, binaries, python packages, LaTeX packages, etc.). Useful to know [which tools are installed on readthedocs.io](https://packages.readthedocs.io) when writing your own extension.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
@@ -159,6 +162,7 @@ Sphinx-Needs_
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
 
 Internationalizations
 ---------------------
