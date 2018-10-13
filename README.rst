@@ -132,6 +132,9 @@ Hieroglyph_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
+   
+Sphinxcontrib-proof_
+   Sphinx extension to typeset definitions, theorems, proofs, etc.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
@@ -159,6 +162,7 @@ Sphinx-Needs_
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
 
 Internationalizations
 ---------------------
