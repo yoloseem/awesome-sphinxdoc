@@ -138,6 +138,9 @@ Sphinxcontrib-proof_
 Sphinxcontrib-packages_
    A sphinx extension to list tools installed on the machine generating the documentation (python versions, binaries, python packages, LaTeX packages, etc.). Useful to know `which tools are installed on Readthedocs <https://packages.readthedocs.io>`__ when writing your own extension.
 
+sphinx-sitemap_
+   sphinx-sitemap silently generates a sitemap for HTML builds.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -164,6 +167,7 @@ Sphinxcontrib-packages_
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _sphinx-sitemap: https://github.com/jdillard/sphinx-sitemap
 .. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
 .. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
