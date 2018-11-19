@@ -72,10 +72,6 @@ sphinx-autodoc-annotation_
 sphinx-autodoc-typehints_
    Type hints support for the Sphinx autodoc extension
 
-sphinx-autodoc-napoleon-typehints_
-   Type hints support for the Sphinx autodoc extension with support for NumPy
-   and Google style docstrings (see sphinxcontrib-napoleon_).
-
 sphinx-fortran-extension_
    A Fortran domain and autodocumentation module for Sphinx.
 
@@ -132,6 +128,9 @@ Hieroglyph_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
+   
+nbsphinx_
+   Parse, execute, and generate output from Jupyter notebooks as HTML and LaTeX. Markdown in .ipynb is converted to RST with Pandoc. Markdown cells may contain toctree markup for generating tables of contents including .ipynb and .rst files.
 
 Sphinxcontrib-proof_
    Sphinx extension to typeset definitions, theorems, proofs, etc.
@@ -167,6 +166,7 @@ Sphinxcontrib-packages_
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
 .. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
 .. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
+.. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
 
 Internationalizations
 ---------------------
