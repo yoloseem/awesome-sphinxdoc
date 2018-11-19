@@ -128,6 +128,9 @@ Hieroglyph_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
+   
+nbsphinx_
+   Parse, execute, and generate output from Jupyter notebooks as HTML and LaTeX. Markdown in .ipynb is converted to RST with Pandoc. Markdown cells may contain toctree markup for generating tables of contents including .ipynb and .rst files.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
@@ -155,6 +158,7 @@ Sphinx-Needs_
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
 
 Internationalizations
 ---------------------
