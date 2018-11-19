@@ -132,6 +132,12 @@ Sphinx-Needs_
 nbsphinx_
    Parse, execute, and generate output from Jupyter notebooks as HTML and LaTeX. Markdown in .ipynb is converted to RST with Pandoc. Markdown cells may contain toctree markup for generating tables of contents including .ipynb and .rst files.
 
+Sphinxcontrib-proof_
+   Sphinx extension to typeset definitions, theorems, proofs, etc.
+
+Sphinxcontrib-packages_
+   A sphinx extension to list tools installed on the machine generating the documentation (python versions, binaries, python packages, LaTeX packages, etc.). Useful to know `which tools are installed on Readthedocs <https://packages.readthedocs.io>`__ when writing your own extension.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -158,6 +164,8 @@ nbsphinx_
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
+.. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
 
 Internationalizations
