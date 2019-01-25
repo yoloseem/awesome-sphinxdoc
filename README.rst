@@ -72,10 +72,6 @@ sphinx-autodoc-annotation_
 sphinx-autodoc-typehints_
    Type hints support for the Sphinx autodoc extension
 
-sphinx-autodoc-napoleon-typehints_
-   Type hints support for the Sphinx autodoc extension with support for NumPy
-   and Google style docstrings (see sphinxcontrib-napoleon_).
-
 sphinx-fortran-extension_
    A Fortran domain and autodocumentation module for Sphinx.
 
@@ -84,6 +80,9 @@ sphinx-git_
    
 sphinx-jekyll-builder_
    sphinx builder that outputs jekyll compatible markdown files with frontmatter
+
+sphinx-markdown-builder_
+   Sphinx builder that outputs markdown files.
 
 Sphinx-prompt_
    Sphinx directive to add unselectable prompt.
@@ -135,6 +134,18 @@ Hieroglyph_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
+   
+nbsphinx_
+   Parse, execute, and generate output from Jupyter notebooks as HTML and LaTeX. Markdown in .ipynb is converted to RST with Pandoc. Markdown cells may contain toctree markup for generating tables of contents including .ipynb and .rst files.
+
+Sphinxcontrib-proof_
+   Sphinx extension to typeset definitions, theorems, proofs, etc.
+
+Sphinxcontrib-packages_
+   A sphinx extension to list tools installed on the machine generating the documentation (python versions, binaries, python packages, LaTeX packages, etc.). Useful to know `which tools are installed on Readthedocs <https://packages.readthedocs.io>`__ when writing your own extension.
+
+sphinx-sitemap_
+   sphinx-sitemap silently generates a sitemap for HTML builds.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
@@ -148,6 +159,7 @@ Sphinx-Needs_
 .. _sphinx-fortran-extension: https://github.com/VACUMM/sphinx-fortran
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _sphinx-jekyll-builder: https://github.com/codejamninja/sphinx-jekyll-builder
+.. _sphinx-markdown-builder: https://github.com/codejamninja/sphinx-markdown-builder
 .. _Sphinx-prompt: http://sbrunner.github.io/sphinx-prompt/
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
 .. _sphinxcontrib-autojs: https://github.com/lunant/sphinxcontrib-autojs
@@ -163,6 +175,10 @@ Sphinx-Needs_
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _sphinx-sitemap: https://github.com/jdillard/sphinx-sitemap
+.. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
+.. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
+.. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
 
 Internationalizations
 ---------------------
