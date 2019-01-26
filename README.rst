@@ -78,6 +78,9 @@ sphinx-fortran-extension_
 sphinx-git_
    git Changelog for Sphinx.
    
+sphinx-jekyll-builder_
+   sphinx builder that outputs jekyll compatible markdown files with frontmatter
+
 sphinx-markdown-builder_
    Sphinx builder that outputs markdown files.
 
@@ -155,6 +158,7 @@ sphinx-sitemap_
 .. _sphinx-autodoc-napoleon-typehints: https://github.com/daviskirk/sphinx-autodoc-napoleon-typehints
 .. _sphinx-fortran-extension: https://github.com/VACUMM/sphinx-fortran
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
+.. _sphinx-jekyll-builder: https://github.com/codejamninja/sphinx-jekyll-builder
 .. _sphinx-markdown-builder: https://github.com/codejamninja/sphinx-markdown-builder
 .. _Sphinx-prompt: http://sbrunner.github.io/sphinx-prompt/
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
