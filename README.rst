@@ -147,6 +147,10 @@ Sphinxcontrib-packages_
 sphinx-sitemap_
    sphinx-sitemap silently generates a sitemap for HTML builds.
 
+sphinxcontrib-svg2pdfconverter_
+   Converts SVG images to PDF in case the builder does not support SVG images
+   natively (e.g. LaTeX).
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -179,6 +183,7 @@ sphinx-sitemap_
 .. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
 .. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
+.. _sphinxcontrib-svg2pdfconverter: https://github.com/missinglinkelectronics/sphinxcontrib-svg2pdfconverter
 
 Internationalizations
 ---------------------
