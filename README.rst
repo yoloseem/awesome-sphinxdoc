@@ -147,6 +147,9 @@ Sphinxcontrib-packages_
 sphinx-sitemap_
    sphinx-sitemap silently generates a sitemap for HTML builds.
 
+sphinx-jsonschema_
+   Turns a jsonschema_ into an integral part of your documentation. Useful when you want a single source for both validation and documentation of your JSON entities.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -179,6 +182,8 @@ sphinx-sitemap_
 .. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
 .. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
+.. _sphinx-jsonschema: https://github.com/lnoor/sphinx-jsonschema
+.. _jsonschema: http://json-schema.org
 
 Internationalizations
 ---------------------
