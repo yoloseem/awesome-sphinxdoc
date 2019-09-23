@@ -23,12 +23,12 @@ __ http://creativecommons.org/licenses/by-sa/4.0/
 Sphinx
 ------------
 | Wikipedia: `<https://en.wikipedia.org/wiki/Sphinx_(documentation_generator)>`__
-| Homepage: http://sphinx-doc.org/
+| Homepage: https://www.sphinx-doc.org/
 | Source: git https://github.com/sphinx-doc/sphinx
 
-| Docs: http://sphinx-doc.org/contents.html
-| Docs: http://sphinx-doc.org/develop.html
-| Docs: http://sphinx-doc.org/rest.html
+| Docs: https://www.sphinx-doc.org/en/master/contents.html
+| Docs: https://www.sphinx-doc.org/en/master/develop.html
+| Docs: https://www.sphinx-doc.org/en/master/usage/restructuredtext/
 | Docs: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 | Docs: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#line-blocks
 | Docs: http://docutils.sourceforge.net/docs/ref/rst/directives.html
@@ -50,9 +50,9 @@ Extensions
 ----------
 | Source: git https://github.com/sphinx-doc/sphinx/tree/master/sphinx/ext
 | Source: hg https://bitbucket.org/birkenfeld/sphinx-contrib
-| Docs: http://sphinx-doc.org/extensions.html
-| Docs: http://sphinx-doc.org/extdev/index.html
-| Docs: http://sphinx-doc.org/extdev/appapi.html
+| Docs: https://www.sphinx-doc.org/en/master/extensions.html
+| Docs: https://www.sphinx-doc.org/en/master/extdev/
+| Docs: https://www.sphinx-doc.org/en/master/extdev/appapi.html
 
 breathe_
    ReStructuredText and Sphinx bridge to Doxygen.
