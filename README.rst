@@ -149,6 +149,9 @@ sphinx-sitemap_
 
 sphinx-jsonschema_
    Turns a jsonschema_ into an integral part of your documentation. Useful when you want a single source for both validation and documentation of your JSON entities.
+   
+sphinx-gitstamp_
+   Makes the git timestamp for each page available to HTML templates.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
@@ -177,6 +180,7 @@ sphinx-jsonschema_
 .. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
+.. _sphinx-gitstamp: https://github.com/jdillard/sphinx-gitstamp
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
 .. _sphinx-sitemap: https://github.com/jdillard/sphinx-sitemap
 .. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
