@@ -62,6 +62,9 @@ javasphinx_
 
 numpydoc_
    `NumPy`_'s Sphinx extensions.
+   
+recommonmark_
+    A markdown parser for docutils.
 
 Releases_
    A Sphinx changelog-generating extension.
@@ -158,6 +161,7 @@ sphinx-gitstamp_
 .. _javasphinx: https://github.com/bronto/javasphinx
 .. _NumPy: http://www.numpy.org/
 .. _numpydoc: https://github.com/numpy/numpydoc
+.. _recommonmark: https://github.com/readthedocs/recommonmark
 .. _Releases: https://github.com/bitprophet/releases
 .. _sphinx-autodoc-annotation: https://github.com/hsoft/sphinx-autodoc-annotation
 .. _sphinx-autodoc-typehints: https://github.com/agronholm/sphinx-autodoc-typehints
