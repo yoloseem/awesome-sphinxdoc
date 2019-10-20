@@ -43,8 +43,14 @@ Articles & Presentations
 `Documenting Your Project With Sphinx`_
    Exercises for the Sphinx Tutorial that Brandon Rhodes often gives at PyCon.
 
+`The Riddle of the Intersphinx\: Configuration and Cross-Reference Composition`_
+   Video of PyOhio 2019 talk by Brian Skinn on the Sphinx objects inventory,
+   its domain/role semantics, and how to write cross-references within
+   and across Sphinx documentation sets.
+
 .. _Documenting Your Project With Sphinx: https://github.com/brandon-rhodes/sphinx-tutorial
 
+.. _The Riddle of the Intersphinx\: Configuration and Cross-Reference Composition: https://www.youtube.com/watch?v=CfInPYkbTZE
 
 Extensions
 ----------
