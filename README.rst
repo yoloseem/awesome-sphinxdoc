@@ -123,6 +123,7 @@ sphinxcontrib-programoutput_
 
 sphinxcontrib-napoleon_
    Napoleon is a pre-processor that parses NumPy and Google style docstrings.
+   Packaged with Sphinx as |sphinx.ext.napoleon|_ as of Sphinx v1.3.
 
 Tut_
    Tut is a tool that helps you write tutorial style documentation using
@@ -178,6 +179,8 @@ sphinx-gitstamp_
 .. _cornice.ext.sphinxext: http://cornice.readthedocs.io/en/latest/sphinx.html
 .. _sphinxcontrib-programoutput: https://github.com/NextThought/sphinxcontrib-programoutput
 .. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/
+.. _sphinx.ext.napoleon: https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html
+.. |sphinx.ext.napoleon| replace:: ``sphinx.ext.napoleon``
 .. _Tut: https://github.com/nyergler/tut
 .. _Hieroglyph: http://hieroglyph.io/
 .. _sphinx-gitstamp: https://github.com/jdillard/sphinx-gitstamp
