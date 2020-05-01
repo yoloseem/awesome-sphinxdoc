@@ -153,6 +153,9 @@ sphinx-jsonschema_
 sphinx-gitstamp_
    Makes the git timestamp for each page available to HTML templates.
 
+sphinx_abcnotation_
+   Add a directive to render abc music notation as SVG images.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -188,6 +191,7 @@ sphinx-gitstamp_
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
 .. _sphinx-jsonschema: https://github.com/lnoor/sphinx-jsonschema
 .. _jsonschema: http://json-schema.org
+.. _sphinx_abcnotation: https://github.com/stfwn/sphinx_abcnotation
 
 Internationalizations
 ---------------------
