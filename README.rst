@@ -75,6 +75,9 @@ sphinx-autodoc-typehints_
 sphinx-fortran-extension_
    A Fortran domain and autodocumentation module for Sphinx.
 
+sphinx-gallery_
+   Sphinx extension for automatic generation of an example gallery.
+
 sphinx-git_
    git Changelog for Sphinx.
    
@@ -163,6 +166,7 @@ sphinx-gitstamp_
 .. _sphinx-autodoc-typehints: https://github.com/agronholm/sphinx-autodoc-typehints
 .. _sphinx-autodoc-napoleon-typehints: https://github.com/daviskirk/sphinx-autodoc-napoleon-typehints
 .. _sphinx-fortran-extension: https://github.com/VACUMM/sphinx-fortran
+.. _sphinx-gallery: https://github.com/sphinx-gallery/sphinx-gallery
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _sphinx-jekyll-builder: https://github.com/codejamninja/sphinx-jekyll-builder
 .. _sphinx-markdown-builder: https://github.com/codejamninja/sphinx-markdown-builder
