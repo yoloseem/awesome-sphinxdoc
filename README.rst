@@ -134,6 +134,9 @@ Hieroglyph_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
+
+Sphinx-Test-Reports_
+   Shows test results inside Sphinx documentations.
    
 nbsphinx_
    Parse, execute, and generate output from Jupyter notebooks as HTML and LaTeX. Markdown in .ipynb is converted to RST with Pandoc. Markdown cells may contain toctree markup for generating tables of contents including .ipynb and .rst files.
@@ -182,6 +185,7 @@ sphinx-gitstamp_
 .. _Hieroglyph: http://hieroglyph.io/
 .. _sphinx-gitstamp: https://github.com/jdillard/sphinx-gitstamp
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _Sphinx-Test-Reports: https://sphinx-test-reports.readthedocs.io/en/latest/
 .. _sphinx-sitemap: https://github.com/jdillard/sphinx-sitemap
 .. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
 .. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
