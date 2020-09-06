@@ -228,6 +228,21 @@ ablog_
    atom feeds, archive pages, blog sidebars, Disqus integration,
    Font-Awesome integration and easy GitHub Pages deploys
 
+MyST_
+   MyST allows you to write Sphinx documentation entirely in markdown. MyST
+   markdown provides a markdown equivalent of the reStructuredText syntax,
+   meaning that you can do anything in MyST that you can do with
+   reStructuredText. It is an attempt to have the best of both worlds: the
+   flexibility and extensibility of Sphinx with the simplicity and
+   readability of Markdown.
+
+`Jupyter Book`_
+   Jupyter Book builds books into formats like HTML and PDF
+   from MyST Markdown and Jupyter notebooks with Sphinx.
+   Jupyter Books can include interactive Jupyter notebooks,
+   interactive data visualizations, and comments and annotations.
+
+
 .. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
 .. _InstantRst: https://github.com/Rykka/InstantRst
 .. _ome-documentation: https://github.com/openmicroscopy/ome-documentation
@@ -236,6 +251,9 @@ ablog_
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
 .. _tinkerer: https://github.com/vladris/tinkerer
 .. _ablog: https://ablog.readthedocs.io/
+.. _MyST: https://myst-parser.readthedocs.io/en/latest/
+.. _Jupyter Book: https://jupyterbook.org/
+
 
 Themes
 ------
