@@ -10,10 +10,10 @@ License`__.
 
 Your contributions are welcome.
 
-.. _Sphinx: http://sphinx-doc.org/
+.. _Sphinx: https://www.sphinx-doc.org/
 .. _awesome-sqlalchemy: https://github.com/dahlia/awesome-sqlalchemy
 __ https://github.com/sindresorhus/awesome
-__ http://creativecommons.org/licenses/by-sa/4.0/
+__ https://creativecommons.org/licenses/by-sa/4.0/
 
 .. contents:: Table of Contents
    :backlinks: none
@@ -24,17 +24,16 @@ Sphinx
 ------------
 | Wikipedia: `<https://en.wikipedia.org/wiki/Sphinx_(documentation_generator)>`__
 | Homepage: https://www.sphinx-doc.org/
-| Source: git https://github.com/sphinx-doc/sphinx
+| Source: https://github.com/sphinx-doc/sphinx
 
 | Docs: https://www.sphinx-doc.org/en/master/contents.html
 | Docs: https://www.sphinx-doc.org/en/master/develop.html
 | Docs: https://www.sphinx-doc.org/en/master/usage/restructuredtext/
-| Docs: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
-| Docs: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#line-blocks
-| Docs: http://docutils.sourceforge.net/docs/ref/rst/directives.html
+| Docs: https://www.sphinx-doc.org/en/master/glossary.html
+| Docs: https://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
+| Docs: https://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#line-blocks
+| Docs: https://docutils.sourceforge.net/docs/ref/rst/directives.html
 | Docs: https://docs.python.org/devguide/documenting.html#sections
-| Docs: http://sphinx-doc.org/markup/index.html
-| Docs: http://sphinx-doc.org/glossary.html
 
 
 Articles & Presentations
@@ -48,8 +47,8 @@ Articles & Presentations
 
 Extensions
 ----------
-| Source: git https://github.com/sphinx-doc/sphinx/tree/master/sphinx/ext
-| Source: hg https://bitbucket.org/birkenfeld/sphinx-contrib
+| Source: https://github.com/sphinx-doc/sphinx/tree/master/sphinx/ext
+| Source: https://github.com/sphinx-contrib
 | Docs: https://www.sphinx-doc.org/en/master/extensions.html
 | Docs: https://www.sphinx-doc.org/en/master/extdev/
 | Docs: https://www.sphinx-doc.org/en/master/extdev/appapi.html
@@ -77,7 +76,7 @@ sphinx-fortran-extension_
 
 sphinx-git_
    git Changelog for Sphinx.
-   
+
 sphinx-jekyll-builder_
    sphinx builder that outputs jekyll compatible markdown files with frontmatter
 
@@ -134,7 +133,7 @@ Hieroglyph_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
-   
+
 nbsphinx_
    Parse, execute, and generate output from Jupyter notebooks as HTML and LaTeX. Markdown in .ipynb is converted to RST with Pandoc. Markdown cells may contain toctree markup for generating tables of contents including .ipynb and .rst files.
 
@@ -149,14 +148,14 @@ sphinx-sitemap_
 
 sphinx-jsonschema_
    Turns a jsonschema_ into an integral part of your documentation. Useful when you want a single source for both validation and documentation of your JSON entities.
-   
+
 sphinx-gitstamp_
    Makes the git timestamp for each page available to HTML templates.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
-.. _NumPy: http://www.numpy.org/
+.. _NumPy: https://www.numpy.org/
 .. _numpydoc: https://github.com/numpy/numpydoc
 .. _Releases: https://github.com/bitprophet/releases
 .. _sphinx-autodoc-annotation: https://github.com/hsoft/sphinx-autodoc-annotation
@@ -166,28 +165,28 @@ sphinx-gitstamp_
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _sphinx-jekyll-builder: https://github.com/codejamninja/sphinx-jekyll-builder
 .. _sphinx-markdown-builder: https://github.com/codejamninja/sphinx-markdown-builder
-.. _Sphinx-prompt: http://sbrunner.github.io/sphinx-prompt/
+.. _Sphinx-prompt: https://sbrunner.github.io/sphinx-prompt/
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
 .. _sphinxcontrib-autojs: https://github.com/lunant/sphinxcontrib-autojs
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-blockdiag: http://blockdiag.com/en/blockdiag/sphinxcontrib.html
-.. _sphinxcontrib-cldomain: http://cldomain.russellsim.org/
+.. _sphinxcontrib-cldomain: https://github.com/russell/sphinxcontrib-cldomain
 .. _sphinxcontrib-docbookrestapi: https://github.com/stackforge/sphinxcontrib-docbookrestapi
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
-.. _cornice.ext.sphinxext: http://cornice.readthedocs.io/en/latest/sphinx.html
+.. _cornice.ext.sphinxext: https://cornice.readthedocs.io/en/latest/sphinx.html
 .. _sphinxcontrib-programoutput: https://github.com/NextThought/sphinxcontrib-programoutput
-.. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/
+.. _sphinxcontrib-napoleon: https://sphinxcontrib-napoleon.readthedocs.io/en/latest/
 .. _Tut: https://github.com/nyergler/tut
-.. _Hieroglyph: http://hieroglyph.io/
+.. _Hieroglyph: https://hieroglyph.readthedocs.io/en/latest/
 .. _sphinx-gitstamp: https://github.com/jdillard/sphinx-gitstamp
-.. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
+.. _Sphinx-Needs: https://sphinxcontrib-needs.readthedocs.io/en/latest/
 .. _sphinx-sitemap: https://github.com/jdillard/sphinx-sitemap
 .. _Sphinxcontrib-proof: https://framagit.org/spalax/sphinxcontrib-proof/
 .. _Sphinxcontrib-packages: https://framagit.org/spalax/sphinxcontrib-packages
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
 .. _sphinx-jsonschema: https://github.com/lnoor/sphinx-jsonschema
-.. _jsonschema: http://json-schema.org
+.. _jsonschema: https://json-schema.org
 
 Internationalizations
 ---------------------
@@ -229,6 +228,21 @@ ablog_
    atom feeds, archive pages, blog sidebars, Disqus integration,
    Font-Awesome integration and easy GitHub Pages deploys
 
+MyST_
+   MyST allows you to write Sphinx documentation entirely in markdown. MyST
+   markdown provides a markdown equivalent of the reStructuredText syntax,
+   meaning that you can do anything in MyST that you can do with
+   reStructuredText. It is an attempt to have the best of both worlds: the
+   flexibility and extensibility of Sphinx with the simplicity and
+   readability of Markdown.
+
+`Jupyter Book`_
+   Jupyter Book builds books into formats like HTML and PDF
+   from MyST Markdown and Jupyter notebooks with Sphinx.
+   Jupyter Books can include interactive Jupyter notebooks,
+   interactive data visualizations, and comments and annotations.
+
+
 .. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
 .. _InstantRst: https://github.com/Rykka/InstantRst
 .. _ome-documentation: https://github.com/openmicroscopy/ome-documentation
@@ -236,13 +250,16 @@ ablog_
 .. _sphinx-gui: https://github.com/audreyr/sphinx-gui
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
 .. _tinkerer: https://github.com/vladris/tinkerer
-.. _ablog: http://ablog.readthedocs.io/
+.. _ablog: https://ablog.readthedocs.io/
+.. _MyST: https://myst-parser.readthedocs.io/en/latest/
+.. _Jupyter Book: https://jupyterbook.org/
+
 
 Themes
 ------
-| Docs: http://sphinx-doc.org/theming.html
-| Docs: http://sphinx-doc.org/templating.html
-| Source: git https://github.com/sphinx-doc/sphinx/tree/master/sphinx/themes
+| Docs: https://www.sphinx-doc.org/en/master/usage/theming.html
+| Docs: https://www.sphinx-doc.org/en/master/templating.html
+| Source: https://github.com/sphinx-doc/sphinx/tree/master/sphinx/themes
 
 Alabaster_
    Modified Kr Sphinx doc theme.
@@ -310,20 +327,20 @@ sphinx_adc_theme_
 
 .. _Alabaster: https://github.com/bitprophet/alabaster
 .. _bootstrap: https://github.com/twbs/bootstrap
-.. _Energy: http://pythonhosted.org/energy/
+.. _Energy: https://pythonhosted.org/energy/
 .. _flask-sphinx-themes: https://github.com/pallets/flask-sphinx-themes
 .. _Korean: https://pythonhosted.org/korean/
 .. _krTheme Sphinx Style: https://github.com/kennethreitz/kr-sphinx-themes
-.. _Ranking: http://pythonhosted.org/ranking/
+.. _Ranking: https://pythonhosted.org/ranking/
 .. _readthedocs.io: https://readthedocs.io
-.. _Requests: http://docs.python-requests.org/
+.. _Requests: https://docs.python-requests.org/
 .. _Sphinx Readable Theme: https://sphinx-readable-theme.readthedocs.io/en/latest/
-.. _sphinx-better-theme: http://sphinx-better-theme.readthedocs.io/en/latest/
+.. _sphinx-better-theme: https://sphinx-better-theme.readthedocs.io/en/latest/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
 .. _sphinx-theme-graphite: https://github.com/Cartroo/sphinx-theme-graphite
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
 .. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
-.. _TrueSkill: http://trueskill.org/
+.. _TrueSkill: https://trueskill.org/
 .. _sphinx-py3doc-enhanced-theme: https://github.com/ionelmc/sphinx-py3doc-enhanced-theme
 .. _sphinx-bootstrap-theme: https://github.com/ryan-roemer/sphinx-bootstrap-theme
 .. _sphinx-foundation-theme: https://github.com/peterhudec/foundation-sphinx-theme
@@ -372,8 +389,8 @@ sphinx-me_
 .. _ghp-import: https://pypi.python.org/pypi/ghp-import
 .. _GitHub Pages: https://pages.github.com/
 .. _Okydoky: https://pypi.python.org/pypi/Okydoky
-__ http://read-the-docs.readthedocs.io/en/latest/webhooks.html
-__ http://read-the-docs.readthedocs.io/en/latest/features.html
+__ https://docs.readthedocs.io/en/latest/webhooks.html
+__ https://docs.readthedocs.io/en/latest/features.html
 .. _Read the Docs: https://readthedocs.io/
 .. _sphinx-autobuild: https://github.com/GaretJax/sphinx-autobuild
 .. _sphinx-server: https://github.com/dldl/sphinx-server
