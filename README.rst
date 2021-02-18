@@ -88,7 +88,7 @@ Sphinx-prompt_
 
 Sphinx-pyreverse_
    Simple sphinx wrapper around pyreverse (from pylint suit) to generate
-   UML diagramms from modules.
+   UML diagrams from modules.
 
 sphinxcontrib-autojs_
    The auto JavaScript documentation Sphinx extension.
