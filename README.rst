@@ -128,10 +128,6 @@ Tut_
    Tut is a tool that helps you write tutorial style documentation using
    Sphinx.
 
-Hieroglyph_
-   Hieroglyph is an extension for Sphinx which builds HTML slides from
-   ReStructuredText documents.
-
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
    
@@ -179,7 +175,6 @@ sphinx-gitstamp_
 .. _sphinxcontrib-programoutput: https://github.com/NextThought/sphinxcontrib-programoutput
 .. _sphinxcontrib-napoleon: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/
 .. _Tut: https://github.com/nyergler/tut
-.. _Hieroglyph: http://hieroglyph.io/
 .. _sphinx-gitstamp: https://github.com/jdillard/sphinx-gitstamp
 .. _Sphinx-Needs: http://sphinxcontrib-needs.readthedocs.io/en/latest/
 .. _sphinx-sitemap: https://github.com/jdillard/sphinx-sitemap
