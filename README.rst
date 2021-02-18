@@ -49,7 +49,6 @@ Articles & Presentations
 Extensions
 ----------
 | Source: git https://github.com/sphinx-doc/sphinx/tree/master/sphinx/ext
-| Source: hg https://bitbucket.org/birkenfeld/sphinx-contrib
 | Docs: https://www.sphinx-doc.org/en/master/extensions.html
 | Docs: https://www.sphinx-doc.org/en/master/extdev/
 | Docs: https://www.sphinx-doc.org/en/master/extdev/appapi.html
