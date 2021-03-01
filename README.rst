@@ -79,7 +79,7 @@ sphinx-fortran-extension_
 
 sphinx-git_
    git Changelog for Sphinx.
-   
+
 sphinx-jekyll-builder_
    sphinx builder that outputs jekyll compatible markdown files with frontmatter
 
@@ -132,7 +132,7 @@ Tut_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
-   
+
 nbsphinx_
    Parse, execute, and generate output from Jupyter notebooks as HTML and LaTeX. Markdown in .ipynb is converted to RST with Pandoc. Markdown cells may contain toctree markup for generating tables of contents including .ipynb and .rst files.
 
