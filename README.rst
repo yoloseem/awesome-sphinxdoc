@@ -56,6 +56,9 @@ Extensions
 breathe_
    ReStructuredText and Sphinx bridge to Doxygen.
 
+docxsphinx_
+   Sphinx extension for building Microsoft Word docx files.
+
 javasphinx_
    Sphinx extension for documenting Java projects.
 
@@ -144,12 +147,13 @@ sphinx-sitemap_
 
 sphinx-jsonschema_
    Turns a jsonschema_ into an integral part of your documentation. Useful when you want a single source for both validation and documentation of your JSON entities.
-   
+
 sphinx-gitstamp_
    Makes the git timestamp for each page available to HTML templates.
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
+.. _docxsphinx: https://github.com/mherkazandjian/docxsphinx
 .. _javasphinx: https://github.com/bronto/javasphinx
 .. _NumPy: http://www.numpy.org/
 .. _numpydoc: https://github.com/numpy/numpydoc
