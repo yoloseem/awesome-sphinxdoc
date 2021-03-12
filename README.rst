@@ -259,8 +259,8 @@ sphinx_rtd_theme_
    Sphinx theme for `readthedocs.io`_.
    
 sphinx-typo3-theme_
-   Modern, responsive, standalone Sphinx theme for `TYPO3 documentation`.
-   Available from `PyPi <https://pypi.org/project/sphinx-typo3-theme/>`__
+   Modern, responsive, standalone Sphinx theme for `TYPO3 documentation`_.
+   Available from `PyPi <https://pypi.org/project/sphinx-typo3-theme/>`__.
 
 sphinx-theme-graphite_
    A slightly muted light-on-dark theme for the Sphinx document generator
@@ -320,6 +320,7 @@ sphinx_adc_theme_
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme
 .. _sphinx-theme-graphite: https://github.com/Cartroo/sphinx-theme-graphite
 .. _sphinx-typo3-theme: https://github.com/TYPO3-Documentation/sphinx_typo3_theme
+.. _TYPO3 documentation: https://docs.typo3.org/
 .. _sphinxjp.themes.basicstrap: https://github.com/tell-k/sphinxjp.themes.basicstrap
 .. _sublee-sphinx-themes: https://github.com/sublee/sublee-sphinx-themes
 .. _TrueSkill: http://trueskill.org/
