@@ -222,6 +222,9 @@ ablog_
    or personal website project into a full-fledged blog with
    atom feeds, archive pages, blog sidebars, Disqus integration,
    Font-Awesome integration and easy GitHub Pages deploys
+   
+generator-sphinx_
+   Yeoman generator for setting up your project with sphinx
 
 .. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
 .. _InstantRst: https://github.com/Rykka/InstantRst
@@ -231,6 +234,7 @@ ablog_
 .. _sphinx-markdown-sample: https://github.com/mctenshi/sphinx-markdown-sample
 .. _tinkerer: https://github.com/vladris/tinkerer
 .. _ablog: http://ablog.readthedocs.io/
+.. _generator-sphinx: https://www.npmjs.com/package/generator-sphinx
 
 Themes
 ------
