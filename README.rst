@@ -148,6 +148,10 @@ sphinx-jsonschema_
 sphinx-gitstamp_
    Makes the git timestamp for each page available to HTML templates.
 
+sphinxcontrib-svg2pdfconverter_
+   Converts SVG images to PDF in case the builder does not support SVG images
+   natively (e.g. LaTeX).
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _javasphinx: https://github.com/bronto/javasphinx
@@ -182,6 +186,7 @@ sphinx-gitstamp_
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
 .. _sphinx-jsonschema: https://github.com/lnoor/sphinx-jsonschema
 .. _jsonschema: http://json-schema.org
+.. _sphinxcontrib-svg2pdfconverter: https://github.com/missinglinkelectronics/sphinxcontrib-svg2pdfconverter
 
 Internationalizations
 ---------------------
