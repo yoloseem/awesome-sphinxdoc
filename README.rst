@@ -56,6 +56,9 @@ Extensions
 breathe_
    ReStructuredText and Sphinx bridge to Doxygen.
 
+docxsphinx_
+   Sphinx extension for building Microsoft Word docx files.
+
 javasphinx_
    Sphinx extension for documenting Java projects.
 
@@ -153,6 +156,7 @@ sphinx-gitstamp_
 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
+.. _docxsphinx: https://github.com/mherkazandjian/docxsphinx
 .. _javasphinx: https://github.com/bronto/javasphinx
 .. _NumPy: http://www.numpy.org/
 .. _numpydoc: https://github.com/numpy/numpydoc
