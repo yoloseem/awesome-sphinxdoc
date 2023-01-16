@@ -157,6 +157,9 @@ sphinx-jsonschema_
 sphinx-gitstamp_
    Makes the git timestamp for each page available to HTML templates.
 
+sphinx-reredirects_
+   Handles redirects for moved pages. Based on the its configuration, the extension generates HTML pages with meta refresh redirects to the new page location to prevent 404 errors if you rename or move your documents.
+
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _docxsphinx: https://github.com/mherkazandjian/docxsphinx
@@ -194,6 +197,7 @@ sphinx-gitstamp_
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/
 .. _sphinx-jsonschema: https://github.com/lnoor/sphinx-jsonschema
 .. _jsonschema: http://json-schema.org
+.. _sphinx-reredirects: https://gitlab.com/documatt/sphinx-reredirects
 
 Internationalizations
 ---------------------
