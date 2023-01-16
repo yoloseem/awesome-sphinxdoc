@@ -68,6 +68,9 @@ numpydoc_
 Releases_
    A Sphinx changelog-generating extension.
 
+autoclasstoc_
+   Make easier-to-navigate class documentation.
+
 sphinx-autodoc-annotation_
    Use Python 3 annotations in sphinx-enabled docstrings.
 
@@ -157,6 +160,7 @@ sphinx-jsonschema_
 sphinx-gitstamp_
    Makes the git timestamp for each page available to HTML templates.
 
+.. _autoclasstoc: https://autoclasstoc.readthedocs.io/en/latest/ 
 .. _blockdiag: http://blockdiag.com/en/blockdiag/index.html
 .. _breathe: https://github.com/michaeljones/breathe
 .. _docxsphinx: https://github.com/mherkazandjian/docxsphinx
