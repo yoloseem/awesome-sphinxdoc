@@ -76,7 +76,7 @@ sphinx-fortran-extension_
 
 sphinx-git_
    git Changelog for Sphinx.
-   
+
 sphinx-jekyll-builder_
    sphinx builder that outputs jekyll compatible markdown files with frontmatter
 
@@ -98,6 +98,9 @@ sphinxcontrib-autoprogram_
 
 sphinxcontrib-blockdiag_
    Sphinx extension for embedding blockdiag_ diagrams.
+
+sphinxcontrib-constdata_
+   Extension that allows showing values, listing tables, and generating links from CSV, JSON and YAML files. Instead of hard-coding values in the text, you write constants or queries replaced with value(s) from the external file(s). If the file contains language-sensitive strings, they can be translated with the rest of the Sphinx docs.
 
 sphinxcontrib-cldomain_
    Common Lisp domain for Sphinx.
@@ -129,7 +132,7 @@ Tut_
 
 Sphinx-Needs_
    Sphinx-Needs allows the definition, linking, and filtering of need-objects: requirements, specifications, implementations, test cases, and more.
-   
+
 nbsphinx_
    Parse, execute, and generate output from Jupyter notebooks as HTML and LaTeX. Markdown in .ipynb is converted to RST with Pandoc. Markdown cells may contain toctree markup for generating tables of contents including .ipynb and .rst files.
 
@@ -144,7 +147,7 @@ sphinx-sitemap_
 
 sphinx-jsonschema_
    Turns a jsonschema_ into an integral part of your documentation. Useful when you want a single source for both validation and documentation of your JSON entities.
-   
+
 sphinx-gitstamp_
    Makes the git timestamp for each page available to HTML templates.
 
@@ -167,6 +170,7 @@ sphinx-gitstamp_
 .. _sphinxcontrib-autoprogram: https://pythonhosted.org/sphinxcontrib-autoprogram/
 .. _sphinxcontrib-blockdiag: http://blockdiag.com/en/blockdiag/sphinxcontrib.html
 .. _sphinxcontrib-cldomain: http://cldomain.russellsim.org/
+.. _sphinxcontrib-constdata: https://documatt.gitlab.io/sphinxcontrib-constdata/
 .. _sphinxcontrib-docbookrestapi: https://github.com/stackforge/sphinxcontrib-docbookrestapi
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
