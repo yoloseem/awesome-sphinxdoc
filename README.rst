@@ -262,6 +262,10 @@ MyST_
    Jupyter Books can include interactive Jupyter notebooks,
    interactive data visualizations, and comments and annotations.
 
+`Swagger Plugin for Sphinx`_
+   Brings togetehr Swagger and Sphinx by rendering HTL pages which
+   use Swagger.
+
 
 .. _django-sphinxdoc: https://pypi.python.org/pypi/django-sphinxdoc
 .. _InstantRst: https://github.com/Rykka/InstantRst
@@ -274,7 +278,7 @@ MyST_
 .. _MyST: https://myst-parser.readthedocs.io/en/latest/
 .. _Jupyter Book: https://jupyterbook.org/
 .. _sphobjinv: https://sphobjinv.readthedocs.io/
-
+.. _Swagger Plugin for Sphinx: https://github.com/SAP/swagger-plugin-for-sphinx
 
 Themes
 ------
