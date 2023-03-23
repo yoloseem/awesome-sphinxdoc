@@ -89,6 +89,9 @@ sphinx-git_
 sphinx-jekyll-builder_
    sphinx builder that outputs jekyll compatible markdown files with frontmatter
 
+sphinx-litprog_
+    Sphinx extension for literate programming
+
 sphinx-markdown-builder_
    Sphinx builder that outputs markdown files.
 
@@ -175,6 +178,7 @@ sphinx-gitstamp_
 .. _sphinx-gallery: https://github.com/sphinx-gallery/sphinx-gallery
 .. _sphinx-git: https://github.com/OddBloke/sphinx-git
 .. _sphinx-jekyll-builder: https://github.com/codejamninja/sphinx-jekyll-builder
+.. _sphinx-litprog: https://sphinx-litprog.readthedocs.io
 .. _sphinx-markdown-builder: https://github.com/codejamninja/sphinx-markdown-builder
 .. _Sphinx-prompt: https://sbrunner.github.io/sphinx-prompt/
 .. _Sphinx-pyreverse: https://github.com/alendit/sphinx-pyreverse
