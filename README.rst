@@ -132,6 +132,9 @@ cornice.ext.sphinxext_
 sphinxcontrib-programoutput_
    Sphinx extension to include program output into documents.
 
+sphinxcontrib-globalsubs_
+   Adds support for global reStructuredText substitutions via a dictionary, as an alternative to putting them in `rst_prolog` or `rst_epilog`.
+
 sphinxcontrib-napoleon_
    Napoleon is a pre-processor that parses NumPy and Google style docstrings.
 
@@ -185,6 +188,7 @@ sphinx-gitstamp_
 .. _sphinxcontrib-constdata: https://documatt.gitlab.io/sphinxcontrib-constdata/
 .. _sphinxcontrib-docbookrestapi: https://github.com/stackforge/sphinxcontrib-docbookrestapi
 .. _sphinxcontrib-fulltoc: https://github.com/dreamhost/sphinxcontrib-fulltoc
+.. _sphinxcontrib-globalsubs: https://github.com/missinglinkelectronics/sphinxcontrib-globalsubs
 .. _sphinxcontrib-httpdomain: https://pythonhosted.org/sphinxcontrib-httpdomain/
 .. _cornice.ext.sphinxext: https://cornice.readthedocs.io/en/latest/sphinx.html
 .. _sphinxcontrib-programoutput: https://github.com/NextThought/sphinxcontrib-programoutput
