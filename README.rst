@@ -68,6 +68,9 @@ numpydoc_
 Releases_
    A Sphinx changelog-generating extension.
 
+vimbuilder_
+   A Sphinx extension to create Vim help files.
+
 autoclasstoc_
    Make easier-to-navigate class documentation.
 
@@ -168,6 +171,7 @@ sphinx-gitstamp_
 .. _NumPy: https://www.numpy.org/
 .. _numpydoc: https://github.com/numpy/numpydoc
 .. _Releases: https://github.com/bitprophet/releases
+.. _vimbuilder: https://github.com/girishji/vimbuilder
 .. _sphinx-autodoc-annotation: https://github.com/hsoft/sphinx-autodoc-annotation
 .. _sphinx-autodoc-typehints: https://github.com/agronholm/sphinx-autodoc-typehints
 .. _sphinx-autodoc-napoleon-typehints: https://github.com/daviskirk/sphinx-autodoc-napoleon-typehints
